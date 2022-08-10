@@ -1,0 +1,13 @@
+package com.makingboardforstudy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MakingBoardForStudyApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MakingBoardForStudyApplication.class, args);
+	}
+
+}
